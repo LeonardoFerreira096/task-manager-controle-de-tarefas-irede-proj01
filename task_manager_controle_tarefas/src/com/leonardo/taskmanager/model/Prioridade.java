@@ -1,4 +1,4 @@
-package com.leonardo.taskmanager;
+package com.leonardo.taskmanager.model;
 
 public enum Prioridade {
     ALTA,

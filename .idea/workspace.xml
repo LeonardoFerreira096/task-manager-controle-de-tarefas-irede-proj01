@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99dfc66a-38fb-4b89-b1db-60acf3b5fade" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/GerenciadorDeTarefas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Prioridade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/exceptions/TarefaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/GerenciadorDeTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/controller/GerenciadorDeTarefas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Prioridade.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/model/Prioridade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/model/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/model/Tarefa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +33,12 @@
     <setting file="file://$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Tarefa.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3FByTh6FXOiPWx88J8DA1f3uViy" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,6 +49,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -55,9 +59,10 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/leonardoferreira/projetos/task-manager-controle-de-tarefas-irede-proj01",
     "onboarding.tips.debug.path": "/home/leonardoferreira/projetos/task-manager-controle-de-tarefas-irede-proj01/task_manager_controle_tarefas/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">
