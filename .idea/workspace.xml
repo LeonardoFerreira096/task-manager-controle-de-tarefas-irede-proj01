@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99dfc66a-38fb-4b89-b1db-60acf3b5fade" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/exceptions/TarefaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/GerenciadorDeTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/controller/GerenciadorDeTarefas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Prioridade.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/model/Prioridade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/model/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/model/Tarefa.java" afterDir="false" />
-    </list>
+    <list default="true" id="99dfc66a-38fb-4b89-b1db-60acf3b5fade" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +47,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/leonardoferreira/projetos/task-manager-controle-de-tarefas-irede-proj01",
     "onboarding.tips.debug.path": "/home/leonardoferreira/projetos/task-manager-controle-de-tarefas-irede-proj01/task_manager_controle_tarefas/src/Main.java",
@@ -72,6 +67,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="99dfc66a-38fb-4b89-b1db-60acf3b5fade" name="Changes" comment="" />
@@ -81,5 +84,8 @@
       <updated>1781562772228</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
