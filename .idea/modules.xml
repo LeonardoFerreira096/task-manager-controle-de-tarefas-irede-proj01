@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/task-manager-controle-de-tarefas-irede-proj01.iml" filepath="$PROJECT_DIR$/.idea/task-manager-controle-de-tarefas-irede-proj01.iml" />
       <module fileurl="file://$PROJECT_DIR$/task_manager_controle_tarefas/task_manager_controle_tarefas.iml" filepath="$PROJECT_DIR$/task_manager_controle_tarefas/task_manager_controle_tarefas.iml" />
     </modules>
   </component>

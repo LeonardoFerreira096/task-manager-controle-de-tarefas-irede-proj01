@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99dfc66a-38fb-4b89-b1db-60acf3b5fade" name="Changes" comment="" />
+    <list default="true" id="99dfc66a-38fb-4b89-b1db-60acf3b5fade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/infra/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/src/com/leonardo/taskmanager/infra/TarefaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/task-manager-controle-de-tarefas-irede-proj01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/task_manager_controle_tarefas/com/leonardo/taskmanager/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/task_manager_controle_tarefas/com/leonardo/taskmanager/controller/GerenciadorDeTarefas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/task_manager_controle_tarefas/com/leonardo/taskmanager/exceptions/TarefaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/task_manager_controle_tarefas/com/leonardo/taskmanager/model/Prioridade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/task_manager_controle_tarefas/com/leonardo/taskmanager/model/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/task_manager_controle_tarefas/com/leonardo/taskmanager/model/Tarefa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_manager_controle_tarefas/task_manager_controle_tarefas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/task_manager_controle_tarefas/task_manager_controle_tarefas.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +68,10 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/leonardoferreira/projetos/task-manager-controle-de-tarefas-irede-proj01",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "onboarding.tips.debug.path": "/home/leonardoferreira/projetos/task-manager-controle-de-tarefas-irede-proj01/task_manager_controle_tarefas/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
@@ -62,9 +79,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AO VIVO 01\Documents\task-manager-controle-de-tarefas-irede-proj01\production\task_manager_controle_tarefas" />
+      <recent name="C:\Users\AO VIVO 01\Documents\task-manager-controle-de-tarefas-irede-proj01\production\task_manager_controle_tarefas\com\leonardo\taskmanager" />
+      <recent name="C:\Users\AO VIVO 01\Documents\task-manager-controle-de-tarefas-irede-proj01\production" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/src" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -87,5 +106,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
