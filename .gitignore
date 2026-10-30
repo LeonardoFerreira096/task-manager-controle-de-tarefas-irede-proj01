@@ -1,0 +1,7 @@
+.idea/
+production/
+out/
+*.iml
+.DS_Store
+**/production/
+**/.idea/

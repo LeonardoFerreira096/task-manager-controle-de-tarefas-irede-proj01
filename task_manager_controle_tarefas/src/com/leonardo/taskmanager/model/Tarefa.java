@@ -3,7 +3,6 @@ package com.leonardo.taskmanager.model;
 import java.time.LocalDate;
 
 public class Tarefa {
-    private static int contadorId = 0;
     private int id;
     private String titulo;
     private String descricao;
@@ -16,6 +15,7 @@ public class Tarefa {
         this.status = Status.CONCLUIDO;
     }
 
+
     public Tarefa(String titulo, String descricao, String responsavel, LocalDate prazo, Prioridade prioridade, Status status) {
         this.titulo = titulo;
         this.descricao = descricao;
@@ -23,16 +23,26 @@ public class Tarefa {
         this.prazo = prazo;
         this.prioridade = prioridade;
         this.status = status;
-        contadorId++;
-        this.id = contadorId;
     }
 
-    public static int getContadorId() {
-        return contadorId;
+
+    public Tarefa(int id, String titulo, String descricao, String responsavel, LocalDate prazo, Prioridade prioridade, Status status) {
+        this.id = id;
+        this.titulo = titulo;
+        this.descricao = descricao;
+        this.responsavel = responsavel;
+        this.prazo = prazo;
+        this.prioridade = prioridade;
+        this.status = status;
     }
+
 
     public int getId() {
         return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getTitulo() {
