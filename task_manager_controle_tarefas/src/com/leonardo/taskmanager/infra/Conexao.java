@@ -7,6 +7,9 @@ public class Conexao {
     private static final String URL = "jdbc:postgresql://localhost:5432/taskmanager";
     private static final String USUARIO = "postgres";
     private static final String SENHA = "1234";
+    private static final String URL = "jdbc:postgresql://localhost:5432/taskmanager";
+    private static final String USUARIO = "postgres";
+    private static final String SENHA = "1234";
 
     public static Connection getConexao() {
         try {
@@ -16,3 +19,4 @@ public class Conexao {
         }
     }
 }
+
