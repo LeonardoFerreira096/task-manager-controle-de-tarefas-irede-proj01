@@ -1,5 +1,4 @@
-package com.leonardo.taskmanager.model;
-
+import com.leonardo.taskmanager.model.*;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;

@@ -1,7 +1,6 @@
 .idea/
-production/
-out/
 *.iml
+*.class
+out/
+production/
 .DS_Store
-**/production/
-**/.idea/
